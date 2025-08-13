@@ -6,9 +6,7 @@ A basic example of using Pybricks and communicating between two LEGO&reg; Spike&
 
 ## Project Stack
 
-This project uses only basic HTML in [Markdown](https://www.markdownguide.org/) files. This allows us to use basic HTML for our content and still include the GitHub default styling.
-
-This repo is hosted using [GitHub Pages](https://pages.github.com/).
+This project uses [Python](https://python.org/) with [Pybricks](https://pybricks.com/).
 
 <img src="https://console.codeadam.ca/api/image/pybricks" width="60"> <img src="https://console.codeadam.ca/api/image/python" width="60">
 
@@ -16,8 +14,7 @@ This repo is hosted using [GitHub Pages](https://pages.github.com/).
 
 ## Repo Resources
 
-- [CodeAdam](https://codeadam.ca/)
-- [CodeAdam Branding](https://branding.codeadam.ca/)
+- [Pybricks](https://pybricks.com/)
 
 <br>
 <a href="https://codeadam.ca">
