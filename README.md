@@ -1,6 +1,6 @@
 # Pybricks and an Xbox Controller
 
-A basic example of using Pybricks and communicating between two LEGO&reg; Spike&trade; hubs. 
+A basic example of using Pybricks to connect an XBox xontroller to a LEGO&reg; Spike&trade; or Essentials&trade; hubs. 
 
 ---
 
